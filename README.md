@@ -1,4 +1,4 @@
-# BeyondsyINU
+# Beyondsy INU
 
 Beyondsy INU belongs to a class of meme cryptocurrencies like Dogecoin (DOGE) and Shiba Inu (SHIB). 
 
